@@ -26,4 +26,7 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)onClick:(id)sender {
+    NSLog(@"This is onClick");
+}
 @end
